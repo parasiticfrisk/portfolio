@@ -25,13 +25,9 @@ project:
   toc:
     - file: docs/index.md
     - file: docs/pages/about.md
-    - title: Experience
-      children:
-      - file: docs/pages/experience.md
-      - file: docs/pages/service.md
-    - title: Works
-      children:
-      - file: docs/pages/research.md
+    - file: docs/pages/experience.md
+    - file: docs/pages/service.md
+    - file: docs/pages/research.md
     #   - file: docs/projects/
     # - file: docs/pages/blog.md
     #   children:
@@ -43,7 +39,8 @@ site:
     logo: docs/assets/images/logo.png
     logo_dark: docs/assets/images/logo.png
     favicon: docs/assets/images/fav.ico
-    folders: true
+    folders: false
+    hide_title_block: true
     style: docs/assets/css/main.css
   robots: disallow
   actions:

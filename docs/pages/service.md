@@ -1,5 +1,5 @@
 ---
-title: Service - August Frisk
+title: Service
 ---
 
 # Service & Community Outreach

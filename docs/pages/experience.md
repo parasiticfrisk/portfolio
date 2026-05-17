@@ -1,5 +1,5 @@
 ---
-title: August Frisk - Professional Experience
+title: Professional Experience
 ---
 
 # Relevant Experience

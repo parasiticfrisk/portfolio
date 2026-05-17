@@ -1,5 +1,5 @@
 ---
-title: Research - August Frisk
+title: Research
 author: August Frisk
 orcid: 0009-0007-9200-8438
 ---

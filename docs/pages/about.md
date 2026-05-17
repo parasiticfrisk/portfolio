@@ -1,5 +1,5 @@
 ---
-title: About - August Frisk
+title: About
 ---
 
 # About

@@ -5,9 +5,9 @@ title: August Frisk
 # August Frisk
 Environmental GIS | Restoration Ecology | Community Science
 
-+++ {"kind": "spit-image"}
++++ {"kind": "split-image"}
 
-![](images/august_frisk.jpg)
+![](docs/images/august_frisk.jpg)
 Credit: Mandeep Khaira 2025.
 
 +++ {"kind": "justified"}
