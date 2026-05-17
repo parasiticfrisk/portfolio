@@ -2,15 +2,16 @@
 title: August Frisk
 ---
 
-# August Frisk
 Environmental GIS | Restoration Ecology | Community Science
 
-+++ {"kind": "split-image"}
+:::::{grid} 1 2 2 2
+::::{card}
+:::{image} assets/images/august_frisk.jpg
+:::
 
-![](docs/images/august_frisk.jpg)
 Credit: Mandeep Khaira 2025.
 
-+++ {"kind": "justified"}
+::::
 
 Research Assistant | [Human-Environment eXploration Lab]
 
@@ -21,6 +22,7 @@ California State University, Stanislaus
 1 University Circle,
 Turlock, CA 95382
 
+:::::
 
 % links to keep document clean
 [Human-Environment eXploration Lab]:https://www.csustan.edu/hex-lab
