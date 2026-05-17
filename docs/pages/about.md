@@ -2,7 +2,6 @@
 title: About
 ---
 
-# About
 I am a GIS and restoration ecology professional with experience in ecological monitoring, remote sensing, biodiversity informatics, and community science. My work combines geospatial technologies, field ecology, and environmental research to support restoration, conservation, and public engagement initiatives across California.
 
 I have worked on projects involving ecological restoration monitoring, drone imagery processing, invasive species mapping, urban forestry inventories, participatory science workflows, and biodiversity informatics. My technical experience includes ArcGIS Pro, Online, and Field Maps, GNSS data collection, remote sensing, geospatial analysis, and GIS workflow automation with Python.

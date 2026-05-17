@@ -2,7 +2,6 @@
 title: Service
 ---
 
-# Service & Community Outreach
 My service work focuses on ecological restoration, biodiversity documentation, community science, environmental education, and professional engagement. I contribute to collaborative research, volunteer education, scientific outreach, and ogranizations that support restoration ecology, geography, geospatial science, and biodiversity monitoring.
 
 ## Community Science & Volunteering

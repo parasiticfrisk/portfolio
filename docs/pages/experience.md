@@ -1,8 +1,7 @@
 ---
-title: Professional Experience
+title: Experience
 ---
 
-# Relevant Experience
 My experience focuses on restoration ecology, GIS, remote sensing, ecological monitoring, and community science. I have contributed to projects involving biodiversity monitoring, drone imagery, participatory science workflows, ecological restoration, and environmental data management across California using field ecology and geospatial technologies to support conservation and environmental research.
 
 ## Employment

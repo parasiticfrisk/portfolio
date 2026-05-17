@@ -40,7 +40,7 @@ site:
     logo_dark: docs/assets/images/logo.png
     favicon: docs/assets/images/fav.ico
     folders: false
-    hide_title_block: true
+    hide_title_block: false
     style: docs/assets/css/main.css
   robots: disallow
   actions:
