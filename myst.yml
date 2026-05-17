@@ -3,7 +3,8 @@ project:
   title: August Frisk
    authors:
      - name: August Frisk
-     - orcid: 0009-0007-9200-8438
+       orcid: 0009-0007-9200-8438
+       linkedin: https://www.linkedin.com/in/august-frisk/
   copyright: '2026'
   exclude:
     - _build
