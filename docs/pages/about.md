@@ -11,14 +11,16 @@ Beyond technical GIS work, I am interested in community science, environmental e
 My current interests include restoration ecology, biodiversity informatics, environmental GIS, conservation technology, open-source geospatial tools, and participatory approaches to environmental research and stewardship.
 
 ## Education
-### B.S. in Geography & Environmental Resources
-**California State University, Stanislaus**, *2026*
-
-### Certificate in Computer Networking
-**Modesto Junior College**, *2018*
+* **B.S. in Geography & Environmental Resources**. California State University, Stanislaus. *2026*
+* **Certificate in Computer Networking**. Modesto Junior College. *2018*
 
 ## Certifications
-* [Fundamentals of Remote Sensing](https://arset.unhosting.site/pluginfile.php/1/tool_certificate/issues/1749396540/8931720444AF.pdf) — NASA, 2025
-* [Open Science](https://www.credly.com/badges/b12d3a3a-f09e-441e-a669-c66c0c3a0fa3/public_url) — NASA, 2024
-* [Unity Junior Programmer](https://www.credly.com/badges/ff513f13-1edb-4a6a-ba6a-3ea65747c2ec/public_url) — Unity Technologies, 2021
-* Computer Network Technician — Modesto Junior College, 2018
+* **[Fundamentals of Remote Sensing]**. NASA. *2025*
+* **[Open Science 101]**. NASA. 2024
+* **[Unity Junior Programmer]**. Unity Technologies. *2021*
+* **Computer Network Technician**. Modesto Junior College. *2018*
+
+/% links
+[Fundamentals of Remote Sensing]:https://arset.unhosting.site/pluginfile.php/1/tool_certificate/issues/1749396540/8931720444AF.pdf
+[Open Science 101]:https://www.credly.com/badges/b12d3a3a-f09e-441e-a669-c66c0c3a0fa3/public_url
+[Unity Junior Programmer]:https://www.credly.com/badges/ff513f13-1edb-4a6a-ba6a-3ea65747c2ec/public_url
