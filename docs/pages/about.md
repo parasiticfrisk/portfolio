@@ -20,7 +20,7 @@ My current interests include restoration ecology, biodiversity informatics, envi
 * **[Unity Junior Programmer]**. Unity Technologies. *2021*
 * **Computer Network Technician**. Modesto Junior College. *2018*
 
-/% links
+% links
 [Fundamentals of Remote Sensing]:https://arset.unhosting.site/pluginfile.php/1/tool_certificate/issues/1749396540/8931720444AF.pdf
 [Open Science 101]:https://www.credly.com/badges/b12d3a3a-f09e-441e-a669-c66c0c3a0fa3/public_url
 [Unity Junior Programmer]:https://www.credly.com/badges/ff513f13-1edb-4a6a-ba6a-3ea65747c2ec/public_url
