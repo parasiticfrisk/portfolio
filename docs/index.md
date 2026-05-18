@@ -4,14 +4,13 @@ title: August Frisk
 
 Environmental GIS and restoration ecology professional specializing in remote sensing, ecological monitoring, and participatory science workflows.
 
-:::::{grid} 1 2 2 2
-::::{card}
-:::{image} docs/assets/images/august_frisk.jpg
-:::
+::::{grid} 1 2 2 2
+:::{card}
 
+![August Frisk presenting on the insect ecology of Linea tridentata](https://raw.githubusercontent.com/parasiticfrisk/portfolio/refs/heads/main/docs/assests/images/august_frisk.jpg)
 Credit: [Mandeep Khaira] 2025.
 
-::::
+:::
 
 Research Assistant | [Human-Environment eXploration Lab]
 
@@ -22,7 +21,7 @@ California State University, Stanislaus
 1 University Circle,
 Turlock, CA 95382
 
-:::::
+::::
 
 % links
 
