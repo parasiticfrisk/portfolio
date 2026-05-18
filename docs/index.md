@@ -2,14 +2,14 @@
 title: August Frisk
 ---
 
-Environmental GIS | Restoration Ecology | Community Science
+Environmental GIS and restoration ecology professional specializing in remote sensing, ecological monitoring, and participatory science workflows.
 
 :::::{grid} 1 2 2 2
 ::::{card}
-:::{image} assets/images/august_frisk.jpg
+:::{image} docs/assets/images/august_frisk.jpg
 :::
 
-Credit: Mandeep Khaira 2025.
+Credit: [Mandeep Khaira] 2025.
 
 ::::
 
@@ -24,7 +24,9 @@ Turlock, CA 95382
 
 :::::
 
-% links to keep document clean
+% links
+
+[Mandeep Khaira]:https://www.linkedin.com/in/mandeep-khaira-83657b6/
 [Human-Environment eXploration Lab]:https://www.csustan.edu/hex-lab
 [Department of Geography & Environmental Resources]:https://www.csustan.edu/geography-environmental-resources
 [Bizzini Hall]:https://maps.app.goo.gl/bV76zCtELJh2rDtFA
