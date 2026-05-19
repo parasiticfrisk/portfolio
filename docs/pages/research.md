@@ -7,21 +7,21 @@ title: Research
 :::{dropdown} 2025
 :open:
 
-**Frisk, August** & José Díaz-Garayúa. (2025). Building an open-source urban forestry model [Poster]. *American Geophysical Union*, New Orleans, LA. Dec 17. https://doi.org/10.22541/essoar.176892235.51073089/v1.
+**{sc}`Frisk, August`** & {sc}`José Díaz-Garayúa`. (2025). Building an open-source urban forestry model [Poster]. *American Geophysical Union*, New Orleans, LA. Dec 17. https://doi.org/10.22541/essoar.176892235.51073089/v1.
 
-**Frisk, August** & Jennifer Frisk. (2025). Oak gall wasp citizen science traning series [Workshop]. *Trans-California Pathway*, Turlock, CA. Sep 6, 13, and 25.
+**{sc}`Frisk, August`** & {sc}`Jennifer Frisk`. (2025). Oak gall wasp citizen science traning series [Workshop]. *Trans-California Pathway*, Turlock, CA. Sep 6, 13, and 25.
 
-**Frisk, August**. (2025). Invasive weed mapping: a framework for precision weed management [ArcGIS StoryMap]. *River Partners San Joaquin Fellow Symposium*, Modesto, CA. Jul 30. https://doi.org/10.5281/zenodo.20265102.
+**{sc}`Frisk, August`**. (2025). Invasive weed mapping: a framework for precision weed management [ArcGIS StoryMap]. *River Partners San Joaquin Fellow Symposium*, Modesto, CA. Jul 30. https://doi.org/10.5281/zenodo.20265102.
 
-**Frisk, August**. (2025). Connecting communities to their urban forests [ArcGIS Dashboard]. *California Geographical Society*, Turlock, CA. Apr 26. https://www.arcgis.com/apps/dashboards/8a6c54c044e24bbd82b55123b5bb4963.
+**{sc}`Frisk, August`**. (2025). Connecting communities to their urban forests [ArcGIS Dashboard]. *California Geographical Society*, Turlock, CA. Apr 26. https://www.arcgis.com/apps/dashboards/8a6c54c044e24bbd82b55123b5bb4963.
 
-**Frisk, August**, Mitzi Osorio, Yaniri Piza, Joshua Samayoa, Tiffani Sandoval-Rodríguez, Ari Carlos, Patrick Ejinaka, Moriah Do, Andrea Schoepf, Amelia Velazquez-Valencia, & Laura Plascencia. (2025). HEX Lab land classification project overview: benfits of trees [Lightning Talk]. *Sustainability Showcase*, Turlock, CA. Mar 24. https://www.youtube.com/watch?v=XikKzob_FUk.
+**{sc}`Frisk, August`**, Mitzi Osorio, Yaniri Piza, Joshua Samayoa, Tiffani Sandoval-Rodríguez, Ari Carlos, Patrick Ejinaka, Moriah Do, Andrea Schoepf, Amelia Velazquez-Valencia, & Laura Plascencia. (2025). HEX Lab land classification project overview: benfits of trees [Lightning Talk]. *Sustainability Showcase*, Turlock, CA. Mar 24. https://www.youtube.com/watch?v=XikKzob_FUk.
 
 :::
 :::{dropdown}: 2024 
 :open:
 
-**Frisk, August**. (2024). Climate-action and the intersection of sustainability and agricutlure in the Central Valley: a showcase of CGS field trips [Poster]. *Social Justice in the Central Valley*, Turlock, CA, Oct 23–25; *CA/NV Soil and Water Conservation Society*, Chico, CA, Oct 9–10; *Association of Pacific Coast Geographers*, Arcata, CA, Oct 3–5. https://doi.org/10.6084/m9.figshare.27261315.
+**{sc}`Frisk, August`**. (2024). Climate-action and the intersection of sustainability and agricutlure in the Central Valley: a showcase of CGS field trips [Poster]. *Social Justice in the Central Valley*, Turlock, CA, Oct 23–25; *CA/NV Soil and Water Conservation Society*, Chico, CA, Oct 9–10; *Association of Pacific Coast Geographers*, Arcata, CA, Oct 3–5. https://doi.org/10.6084/m9.figshare.27261315.
 
 :::
 
@@ -31,13 +31,13 @@ title: Research
 :::{dropdown} 2025
 :open:
 
-**Frisk, August**‡ & iNaturalist Contributors. (2025). CA state roadkill observation data (2018–2025). *figshare*. https://doi.org/10.6084/m9.figshare.29123012.
+**{sc}`Frisk, August`**‡ & iNaturalist Contributors. (2025). CA state roadkill observation data (2018–2025). *figshare*. https://doi.org/10.6084/m9.figshare.29123012.
 
 :::
 :::{dropdown} 2024
 :open:
 
-**Frisk, August**‡ & iNaturalist Contributors. (2024). CA threatend bird and amphibian data (2020–2024). *figshare*. https://doi.org/10.6084/m9.figshare.28513784.
+**{sc}`Frisk, August`**‡ & iNaturalist Contributors. (2024). CA threatend bird and amphibian data (2020–2024). *figshare*. https://doi.org/10.6084/m9.figshare.28513784.
 
 :::
 
@@ -46,15 +46,15 @@ title: Research
 :::{dropdown} 2025
 :open:
 
-Valley oak gall pathology open database. **Field coordinator**. Montenegro-Montenegro, Esteban, Jennifer Frisk, José Díaz-Garayúa, & **August Frisk**. *Open Research Community Accelerator (ORCA) Catalytic Award*. May 2025–May 2026. $15,000.
+Valley oak gall pathology open database. **Field coordinator**. {sc}`Montenegro-Montenegro, Esteban`, {sc}`Jennifer Frisk`, {sc}`José Díaz-Garayúa`, & **{sc}`August Frisk`**. *Open Research Community Accelerator (ORCA) Catalytic Award*. May 2025–May 2026. $15,000.
 
-Vounteer engagement in mapping urban trees. **PI**. **Frisk, August** & José Díaz-Garayúa. *Student Engagement in Research, Scholarship, and Creative Activity (SERSCA) Mini Grant*. Nov 2025–May 2026 $300.
+Vounteer engagement in mapping urban trees. **PI**. **{sc}`Frisk, August`** & {sc}`José Díaz-Garayúa`. *Student Engagement in Research, Scholarship, and Creative Activity (SERSCA) Mini Grant*. Nov 2025–May 2026 $300.
 
 :::
 :::{dropdown} 2024
 :open:
 
-Morphology of cynipid wasps and their galls. **PI**. **Frisk, August** & Chad Redwing. *Student Engagement in Research, Scholarship, and Creative Activity (SERSCA) Mini Grant*. Nov 2024–May 2025 $500.
+Morphology of cynipid wasps and their galls. **PI**. **{sc}`Frisk, August`** & {sc}`Chad Redwing`. *Student Engagement in Research, Scholarship, and Creative Activity (SERSCA) Mini Grant*. Nov 2024–May 2025 $500.
 
 :::
 
@@ -64,11 +64,11 @@ Morphology of cynipid wasps and their galls. **PI**. **Frisk, August** & Chad Re
 :::{dropdown} 2024
 :open:
 
-**Frisk, August**⥉. (2024). Allocosa subparva. In *Wikipedia*. https://en.wikipedia.org/wiki/Allocosa_subparva.
+**{sc}`Frisk, August`**⥉. (2024). Allocosa subparva. In *Wikipedia*. https://en.wikipedia.org/wiki/Allocosa_subparva.
 
-**Frisk, August**⥉. (2024). Schizocosa mccooki. In *Wikipedia*. https://en.wikipedia.org/wiki/Schizocosa_mccooki.
+**{sc}`Frisk, August`**⥉. (2024). Schizocosa mccooki. In *Wikipedia*. https://en.wikipedia.org/wiki/Schizocosa_mccooki.
 
-**Frisk, August**⥉. (2024). Pardosa astrigera. In *Wikipedia*. https://en.wikipedia.org/wiki/Pardosa_astrigera.
+**{sc}`Frisk, August`**⥉. (2024). Pardosa astrigera. In *Wikipedia*. https://en.wikipedia.org/wiki/Pardosa_astrigera.
 
 :::
 
