@@ -11,7 +11,7 @@ title: Research
 
 **Frisk, August** & Jennifer Frisk. (2025). Oak gall wasp citizen science traning series [Workshop]. *Trans-California Pathway*, Turlock, CA. Sep 6, 13, and 25.
 
-**Frisk, August**, Shivam Pawar, Alex Findeis, Valeria Covarrubias-Santillian, Leah Young-Chung, & Annie Booth. (2025). Invasive weed mapping: a framework for precision weed management [ArcGIS StoryMap]. *River Partners San Joaquin Fellow Symposium*, Modesto, CA. Jul 30. https://storymaps.arcgis.com/stories/9c2f43509c2b44b6b3ba59b334c745f4.
+**Frisk, August**. (2025). Invasive weed mapping: a framework for precision weed management [ArcGIS StoryMap]. *River Partners San Joaquin Fellow Symposium*, Modesto, CA. Jul 30. https://doi.org/10.5281/zenodo.20265102.
 
 **Frisk, August**. (2025). Connecting communities to their urban forests [ArcGIS Dashboard]. *California Geographical Society*, Turlock, CA. Apr 26. https://www.arcgis.com/apps/dashboards/8a6c54c044e24bbd82b55123b5bb4963.
 
