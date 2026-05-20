@@ -1,7 +1,7 @@
 ---
 title: Research
 abbreviations:
-  SERCA: Student Engagement in Research, Scholarship, and Creative Activity
+  SERSCA: Student Engagement in Research, Scholarship, and Creative Activity
   ORCA: Open Research Community Accelerator
   SWCS: Soil and Water Conservation Society
   AGU: American Geophysical Union
