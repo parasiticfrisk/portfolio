@@ -6,7 +6,7 @@ My experience focuses on restoration ecology, GIS, remote sensing, ecological mo
 
 ## Employment
 ### California State University, Stanislaus
-:::{dropdown} Research Assistant — Human-Environment eXploration (HEX) Lab
+:::{dropdown} Research Assistant (HEX Lab)
 :open:
 *Jan 2025–Present* \
 Developing participatory science workflows for urban forestry and environmental monitoring projects using GIS and community science approaches. Current work focuses on field-tested data collection frameworks, ArcGIS Field Maps,  ArcGIS dashboards, and improving accessibility and usability in community-based environmental data collection.
