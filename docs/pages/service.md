@@ -9,19 +9,19 @@ abbreviations:
 
 My service work focuses on ecological restoration, biodiversity documentation, community science, environmental education, and professional engagement. I contribute to collaborative research, volunteer education, scientific outreach, and ogranizations that support restoration ecology, geography, geospatial science, and biodiversity monitoring.
 
-## Community Science & Volunteering
-### University of Iowa
+## Volunteering
+::::{dropdown} University of Iowa
+:open:
 :::{div}
 :class: col-body-left
 **Citizen Scientist** (Forbes Lab)
 :::
 :::{div}
 :class: col-gutter-right
-:align: right
 *Aug 2023–Present*
 :::
 Support collaborative ecological research focused on cynipid wasps through specimen collection, rearing, identification, and biodiversity documentation. Activities include field sampling coordination, volunteer training, specimen documentation, and biodiversity data contributions through iNaturalist.
-
+::::
 ### iNaturalist
 :::{div}
 :class: col-body-left
@@ -55,8 +55,8 @@ Supported environmental education and community engagement programs at Dos Rios 
 :::
 Supported web development and digital outreach initiatives for student-focused STEM and computing programs at Stanislaus State.
 
-## Leaderhip & Professional Service
-### California Geographical Society
+## Professional Service
+**California Geographical Society**
 :::{div}
 :class: col-body-left
 **Northern California Student Representative**
@@ -67,7 +67,7 @@ Supported web development and digital outreach initiatives for student-focused S
 :::
 Supported organizational outreach, annual meeting logistics, website management, and field trip coordination for the 2025 Annul Meeting.
 
-### California State University, Stanislaus
+**California State University, Stanislaus**
 :::{div}
 :class: col-body-left
 **Student Representative** (University Honors Program; UCM Field to Lab-Curious Program)
@@ -78,8 +78,8 @@ Supported organizational outreach, annual meeting logistics, website management,
 :::
 Contributed to planning and implementation of the inaugural cross-campus collaboration between Stanislaus State, Modesto Junior College, and UC Merced on microplastics research and supporting field-lab workflows.
 
-## University & Institutional Service
-### California State University, Stanislaus
+## University Service
+**California State University, Stanislaus**
 :::{div}
 :class: col-body-left
 **Campus Landscape Committee**
@@ -110,8 +110,8 @@ Contributed to planning and management decisions for the Stanislaus State BioAg 
 :::
 Designated backup field-trip coordinator as needed
 
-## Public Outreach & Environmental Education
-### California State University, Stanislaus
+## Public Outreach
+**California State University, Stanislaus**
 :::{div}
 :class: col-body-left
 **Science Day Volunteer**
@@ -122,7 +122,7 @@ Designated backup field-trip coordinator as needed
 :::
 Served in hands-on activities and community education on pollinator ecology.
 
-### Califonria Geographical Society
+**California Geographical Society**
 :::{div}
 :class: col-body-left
 **Field Trip Leader**
@@ -133,7 +133,7 @@ Served in hands-on activities and community education on pollinator ecology.
 :::
 Led CGS 2025 field tour at Dos Rios State Park focused on riparian ecology, floodplain restoration, and river conservation.
 
-### California Native Plant Society
+**California Native Plant Society**
 :::{div}
 :class: col-body-left
 **Field Trip Leader** (Northern San Joaquin Valley Chapter)

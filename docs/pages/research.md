@@ -14,7 +14,7 @@ abbreviations:
 
 ## Professional Presentations
 1. **Frisk, August** & {abbr}`José Díaz-Garayúa (faculty advisor)`. (2025). Building an open-source urban forestry model \[Poster\]. *AGU 2025 Annual Meeting*, New Orleans, LA. Dec 17. https://doi.org/10.22541/essoar.176892235.51073089/v1.
-1. **Frisk, August** & Jennifer Frisk. (2025). Oak gall wasp citizen science traning series \[Workshop\]. *Trans-California Pathway*, Turlock, CA. Sep 6, 13, and 25.
+1. **Frisk, August** & Jennifer Frisk. (2025). Oak gall wasp citizen science traning series \[Workshop\]. *Trans-California Pathway*, Turlock, CA. Sep 6, 13, and 25. https://doi.org/10.5281/zenodo.20303692.
 1. **Frisk, August**. (2025). Invasive weed mapping: a framework for precision weed management \[ArcGIS StoryMap\]. *River Partners San Joaquin Fellows Symposium*, Modesto, CA. Jul 30. https://doi.org/10.5281/zenodo.20265102.
 1. **Frisk, August**. (2025). Connecting communities to their urban forests \[ArcGIS Dashboard\]. *CGS 2025 Annual Meeting*, Turlock, CA. Apr 26. https://www.arcgis.com/apps/dashboards/8a6c54c044e24bbd82b55123b5bb4963.
 1. **Frisk, August**, Mitzi Osorio, Yaniri Piza, Joshua Samayoa, Tiffani Sandoval-Rodríguez, Ari Carlos, Patrick Ejinaka, Moriah Do, Andrea Schoepf, Amelia Velazquez-Valencia, & Laura Plascencia. (2025). HEX Lab land classification project overview: benfits of trees \[Lightning Talk\]. *Sustainability Showcase*, Turlock, CA. Mar 24. https://www.youtube.com/watch?v=XikKzob_FUk.
@@ -25,7 +25,7 @@ abbreviations:
 1. **{abbr}`Frisk, August (data curator)`** & iNaturalist Contributors. (2024). CA threatend bird and amphibian data (2020–2024). *figshare*. https://doi.org/10.6084/m9.figshare.28513784.
 
 ## Grants
-1. Valley oak gall pathology open database. {abbr}`Montenegro-Montenegro, Esteban (primary investigator)`, {abbr}`Jennifer Frisk (grant coordinator)`, {abbr}`José Díaz-Garayúa (geospatial consultant)`, & **{abbr}`August Frisk (field coordinator)`**. ORCA Catalytic Award*. May 2025–May 2026. $15,000.
+1. Valley oak gall pathology open database. {abbr}`Montenegro-Montenegro, Esteban (primary investigator)`, {abbr}`Jennifer Frisk (grant coordinator)`, {abbr}`José Díaz-Garayúa (geospatial consultant)`, & **{abbr}`August Frisk (field coordinator)`**. *ORCA Catalytic Award*. May 2025–May 2026. $15,000.
 1. Travel support to present at AGU 2025. **{abbr}`Frisk, August (primary investigator)`** & {abbr}`José Díaz-Garayúa (faculty advisor)`. *SERSCA Travel Grant*. Dec 2025. $1,200.
 1. Vounteer engagement in mapping urban trees. **{abbr}`Frisk, August (primary investigator)`** & {abbr}`José Díaz-Garayúa (faculty advisor)`. *SERSCA Mini Grant*. Nov 2025–May 2026 $300.
 1. Morphology of cynipid wasps and their galls. **{abbr}`Frisk, August (primary investigator)`** & {abbr}`Chad Redwing (faculty advisor)`. *SERSCA Mini Grant*. Nov 2024–May 2025 $500.
