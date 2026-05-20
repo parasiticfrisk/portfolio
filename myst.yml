@@ -37,8 +37,7 @@ project:
     # - pattern: posts/*.md
     #   hidden: true
 
-extends:
-  - docs/abbreviations.yml
+extends: docs/abbreviations.yml
 
 site:
   title: August Frisk Portfolio
