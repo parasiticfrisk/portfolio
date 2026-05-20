@@ -6,58 +6,33 @@ My service work focuses on ecological restoration, biodiversity documentation, c
 
 ## Community Science & Volunteering
 ### University of Iowa
-
-:::{dropdown} Citizen Scientist — Forbes Lab
-:open:
-
+**Citizen Scientist** — Forbes Lab
+:::{span}
+:class: col-gutter-right
 *Aug 2023–Present*
-
+:::
 Support collaborative ecological research focused on cynipid wasps through specimen collection, rearing, identification, and biodiversity documentation. Activities include field sampling coordination, volunteer training, specimen documentation, and biodiversity data contributions through iNaturalist.
 
-:::
-
 ### iNaturalist
-
-:::{dropdown} Citizen Scientist
-:open:
-
-*Jun 2022–Present*
-
+**Citizen Scientist** \
+*Jun 2022–Present* \
 Contribute biodiversity observations, species identifications, and taxonomy-focused documentation through iNaturalist, specializing in Northern San Joaquin Valley invertebrates and California spiders. Also support community science engagement through educational outreach, observation annotation, and public knowledge contributions.
 
-:::
-
 ### California State Parks
-
-:::{dropdown} Docent — Dos Rios State Park
-:open:
-
-*Oct 2024–Oct 2025*
-
+**Docent** — Dos Rios State Park \
+*Oct 2024–Oct 2025* \
 Supported environmental education and community engagement programs at Dos Rios State Park through guided hikes, restoration volunteer events, and public outreach activities on riparian ecology, floodplain restoration, and native ecosystems.
 
-:::
-
 ### Computing Alliance of Hispanic Serving Institutions
-
-:::{dropdown} Web Developer — Stanislaus State
-
-*Mar 2021–Dec 2021*
-
+**Web Developer** — Stanislaus State \
+*Mar 2021–Dec 2021* \
 Supported web development and digital outreach initiatives for student-focused STEM and computing programs at Stanislaus State.
-
-:::
 
 ## Leaderhip & Professional Service
 ### California Geographical Society
-
-:::{dropdown} Northern California Student Representative
-
-*Aug 2024–May 2026*
-
+**Northern California Student Representative** \
+*Aug 2024–May 2026* \
 Supported organizational outreach, annual meeting logistics, website management, and field trip coordination for the 2025 Annul Meeting. Led educational field tours focused on riparian ecology and floodplain restoration at Dos Rios State Park.
-
-:::
 
 ### California State University, Stanislaus
 
