@@ -22,14 +22,14 @@ project:
       url: https://mybinder.org
       ref: main
   bibliography:
-    - pages/references.bib
+    - docs/pages/references.bib
 
   toc:
-    - file: index.md
-    - file: pages/about.md
-    - file: pages/experience.md
-    - file: pages/service.md
-    - file: pages/research.md
+    - file: docs/index.md
+    - file: docs/pages/about.md
+    - file: docs/pages/experience.md
+    - file: docs/pages/service.md
+    - file: docs/pages/research.md
     #   - file: projects/
     # - file: pages/blog.md
     #   children:
@@ -38,7 +38,7 @@ project:
     #   hidden: true
 
 extends:
-  - abbreviations.yml
+  - docs/abbreviations.yml
 
 site:
   title: August Frisk Portfolio
