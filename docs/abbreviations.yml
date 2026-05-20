@@ -2,15 +2,25 @@ version: 1
 project:
 
   abbreviations:
+    # See https://mystmd.org/guide/glossaries-and-terms#order-of-abbreviations
     SERSCA: Student Engagement in Research, Scholarship, and Creative Activity
     ORCA: Open Research Community Accelerator
+    SER: Society for Ecological Restoration
+    CA: California
+
+    GIS: Geographical Information System
+    ArcGIS: null
+    QGIS: null
+
+    UCM: University of California Merced
+    UC: University of California
+
+    GNSS: Global Navigation Satellite System
+    STEM: Science, Technology, Engineering, & Mathematics
     SWCS: Soil and Water Conservation Society
     AGU: American Geophysical Union
     CGS: California Geographical Society
-    GIS: Geographical Information System
-    GNSS: Global Navigation Satellite System
     GPS: Global Positioning System
     HEX: Human-Environment eXploration
-    CA: California
     LA: Louisiana
     NV: Nevada
