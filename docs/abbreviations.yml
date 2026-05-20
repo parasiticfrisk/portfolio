@@ -2,15 +2,15 @@ version: 1
 project:
 
   abbreviations:
-  SERSCA: Student Engagement in Research, Scholarship, and Creative Activity
-  ORCA: Open Research Community Accelerator
-  SWCS: Soil and Water Conservation Society
-  AGU: American Geophysical Union
-  CGS: California Geographical Society
-  GIS: Geographical Information System
-  GNSS: Global Navigation Satellite System
-  GPS: Global Positioning System
-  HEX: Human-Environment eXploration
-  CA: California
-  LA: Louisiana
-  NV: Nevada
+    SERSCA: Student Engagement in Research, Scholarship, and Creative Activity
+    ORCA: Open Research Community Accelerator
+    SWCS: Soil and Water Conservation Society
+    AGU: American Geophysical Union
+    CGS: California Geographical Society
+    GIS: Geographical Information System
+    GNSS: Global Navigation Satellite System
+    GPS: Global Positioning System
+    HEX: Human-Environment eXploration
+    CA: California
+    LA: Louisiana
+    NV: Nevada
