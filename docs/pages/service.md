@@ -12,18 +12,19 @@ My service work focuses on ecological restoration, biodiversity documentation, c
 ## Community Science & Volunteering
 ### University of Iowa
 :::{div}
-:class: col-gutter-left
+:class: col-body-left
 **Citizen Scientist** (Forbes Lab)
 :::
 :::{div}
 :class: col-gutter-right
+:align: right
 *Aug 2023–Present*
 :::
 Support collaborative ecological research focused on cynipid wasps through specimen collection, rearing, identification, and biodiversity documentation. Activities include field sampling coordination, volunteer training, specimen documentation, and biodiversity data contributions through iNaturalist.
 
 ### iNaturalist
 :::{div}
-:class: col-gutter-left
+:class: col-body-left
 **Citizen Scientist** 
 :::
 :::{div}
@@ -34,7 +35,7 @@ Contribute biodiversity observations, species identifications, and taxonomy-focu
 
 ### California State Parks
 :::{div}
-:class: col-gutter-left
+:class: col-body-left
 **Docent** (Dos Rios State Park)
 :::
 :::{div}
@@ -45,7 +46,7 @@ Supported environmental education and community engagement programs at Dos Rios 
 
 ### Computing Alliance of Hispanic Serving Institutions
 :::{div}
-:class: col-gutter-left
+:class: col-body-left
 **Web Developer** (Stanislaus State)
 :::
 :::{div}
@@ -57,7 +58,7 @@ Supported web development and digital outreach initiatives for student-focused S
 ## Leaderhip & Professional Service
 ### California Geographical Society
 :::{div}
-:class: col-gutter-left
+:class: col-body-left
 **Northern California Student Representative**
 :::
 :::{div}
@@ -68,7 +69,7 @@ Supported organizational outreach, annual meeting logistics, website management,
 
 ### California State University, Stanislaus
 :::{div}
-:class: col-gutter-left
+:class: col-body-left
 **Student Representative** (University Honors Program; UCM Field to Lab-Curious Program)
 :::
 :::{div}
@@ -80,7 +81,7 @@ Contributed to planning and implementation of the inaugural cross-campus collabo
 ## University & Institutional Service
 ### California State University, Stanislaus
 :::{div}
-:class: col-gutter-left
+:class: col-body-left
 **Campus Landscape Committee**
 :::
 :::{div}
@@ -90,7 +91,7 @@ Contributed to planning and implementation of the inaugural cross-campus collabo
 Contributed to planning and future design of Stanislaus State campus landscape to advance sustainability, education, and community engagement.
 
 :::{div}
-:class: col-gutter-left
+:class: col-body-left
 **BioAg Committee**
 :::
 :::{div}
@@ -100,7 +101,7 @@ Contributed to planning and future design of Stanislaus State campus landscape t
 Contributed to planning and management decisions for the Stanislaus State BioAg Field Site.
 
 :::{div}
-:class: col-gutter-left
+:class: col-body-left
 **Ad Hoc Field Trip Coordinator**
 :::
 :::{div}
@@ -112,7 +113,7 @@ Designated backup field-trip coordinator as needed
 ## Public Outreach & Environmental Education
 ### California State University, Stanislaus
 :::{div}
-:class: col-gutter-left
+:class: col-body-left
 **Science Day Volunteer**
 :::
 :::{div}
@@ -123,7 +124,7 @@ Served in hands-on activities and community education on pollinator ecology.
 
 ### Califonria Geographical Society
 :::{div}
-:class: col-gutter-left
+:class: col-body-left
 **Field Trip Leader**
 :::
 :::{div}
@@ -134,7 +135,7 @@ Led CGS 2025 field tour at Dos Rios State Park focused on riparian ecology, floo
 
 ### California Native Plant Society
 :::{div}
-:class: col-gutter-left
+:class: col-body-left
 **Field Trip Leader** (Northern San Joaquin Valley Chapter)
 :::
 :::{div}
