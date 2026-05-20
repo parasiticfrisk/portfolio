@@ -5,9 +5,13 @@ title: Service
 My service work focuses on ecological restoration, biodiversity documentation, community science, environmental education, and professional engagement. I contribute to collaborative research, volunteer education, scientific outreach, and ogranizations that support restoration ecology, geography, geospatial science, and biodiversity monitoring.
 
 ## Community Science & Volunteering
+
+:::{div}
+:class: col-gutter-left
 ### University of Iowa
 **Citizen Scientist** — Forbes Lab
-:::{span}
+:::
+:::{div}
 :class: col-gutter-right
 *Aug 2023–Present*
 :::
