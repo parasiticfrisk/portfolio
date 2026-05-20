@@ -28,8 +28,8 @@ project:
     - file: docs/index.md
     - file: docs/pages/about.md
     - file: docs/pages/experience.md
-    - file: docs/pages/service.md
     - file: docs/pages/research.md
+    - file: docs/pages/service.md
     #   - file: projects/
     # - file: pages/blog.md
     #   children:
