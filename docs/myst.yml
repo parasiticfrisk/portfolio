@@ -22,18 +22,18 @@ project:
       url: https://mybinder.org
       ref: main
   bibliography:
-    - docs/pages/references.bib
+    - pages/references.bib
 
   toc:
-    - file: docs/index.md
-    - file: docs/pages/about.md
-    - file: docs/pages/experience.md
-    - file: docs/pages/service.md
-    - file: docs/pages/research.md
-    #   - file: docs/projects/
-    # - file: docs/pages/blog.md
+    - file: index.md
+    - file: pages/about.md
+    - file: pages/experience.md
+    - file: pages/service.md
+    - file: pages/research.md
+    #   - file: projects/
+    # - file: pages/blog.md
     #   children:
-    #     - file: docs/posts/
+    #     - file: posts/
     # - pattern: posts/*.md
     #   hidden: true
 
@@ -43,12 +43,12 @@ extends:
 site:
   title: August Frisk Portfolio
   options:
-    logo: docs/assets/images/logo.png
-    logo_dark: docs/assets/images/logo.png
-    favicon: docs/assets/images/fav.ico
+    logo: assets/images/logo.png
+    logo_dark: assets/images/logo.png
+    favicon: assets/images/fav.ico
     folders: false
     hide_title_block: false
-    style: docs/assets/css/main.css
+    style: assets/css/main.css
   robots: disallow
   actions:
     - title: RSS
