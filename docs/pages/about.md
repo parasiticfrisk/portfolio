@@ -11,14 +11,14 @@ Beyond technical GIS work, I am interested in community science, [environmental 
 My current interests include restoration ecology, biodiversity informatics, environmental GIS, conservation technology, [open source] geospatial tools, and participatory approaches to environmental research and [stewardship].
 
 ## Education
-* **B.S. in Geography & Environmental Resources**. [California State University, Stanislaus]. *2026*
-* **Certificate in Computer Networking**. [Modesto Junior College]. *2018*
+* **B.S. in Geography & Environmental Resources**. [California State University, Stanislaus]. *2026*.
+* **Certificate in Computer Networking**. [Modesto Junior College]. *2018*.
 
 ## Certifications
-* **[Fundamentals of Remote Sensing]**. [NASA ARSET]. *2025*
-* **[Open Science 101]**. [NASA TOPS]. *2024*
-* **[Unity Junior Programmer]**. [Unity Technologies](https://learn.unity.com/). *2021*
-* **Computer Network Technician**. Modesto Junior College. *2018*
+* **[Fundamentals of Remote Sensing]**. [NASA ARSET]. *2025*.
+* **[Open Science 101]**. [NASA TOPS]. *2024*.
+* **[Unity Junior Programmer]**. [Unity Technologies]. *2021*.
+* **Computer Network Technician**. Modesto Junior College. *2018*.
 
 % links
 

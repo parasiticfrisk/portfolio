@@ -18,7 +18,7 @@ title: Research
 **{sc}`Frisk, August`**, Mitzi Osorio, Yaniri Piza, Joshua Samayoa, Tiffani Sandoval-Rodríguez, Ari Carlos, Patrick Ejinaka, Moriah Do, Andrea Schoepf, Amelia Velazquez-Valencia, & Laura Plascencia. (2025). HEX Lab land classification project overview: benfits of trees [Lightning Talk]. *Sustainability Showcase*, Turlock, CA. Mar 24. https://www.youtube.com/watch?v=XikKzob_FUk.
 
 :::
-:::{dropdown}: 2024 
+:::{dropdown} 2024 
 :open:
 
 **{sc}`Frisk, August`**. (2024). Climate-action and the intersection of sustainability and agricutlure in the Central Valley: a showcase of CGS field trips [Poster]. *Social Justice in the Central Valley*, Turlock, CA, Oct 23–25; *CA/NV Soil and Water Conservation Society*, Chico, CA, Oct 9–10; *Association of Pacific Coast Geographers*, Arcata, CA, Oct 3–5. https://doi.org/10.6084/m9.figshare.27261315.
@@ -26,81 +26,35 @@ title: Research
 :::
 
 ## Datasets
-‡ designates [data curation](https://credit.niso.org/contributor-roles/data-curation/). 
-
-:::{dropdown} 2025
-:open:
-
-**{sc}`Frisk, August`**‡ & iNaturalist Contributors. (2025). CA state roadkill observation data (2018–2025). *figshare*. https://doi.org/10.6084/m9.figshare.29123012.
-
-:::
-:::{dropdown} 2024
-:open:
-
-**{sc}`Frisk, August`**‡ & iNaturalist Contributors. (2024). CA threatend bird and amphibian data (2020–2024). *figshare*. https://doi.org/10.6084/m9.figshare.28513784.
-
-:::
+1. **{abbr}`Frisk, August (data curator)`** & iNaturalist Contributors. (2025). CA state roadkill observation data (2018–2025). *figshare*. https://doi.org/10.6084/m9.figshare.29123012.
+1. **{abbr}`Frisk, August (data curator)`** & iNaturalist Contributors. (2024). CA threatend bird and amphibian data (2020–2024). *figshare*. https://doi.org/10.6084/m9.figshare.28513784.
 
 ## Grants
-
-:::{dropdown} 2025
-:open:
-
-Valley oak gall pathology open database. **Field coordinator**. {sc}`Montenegro-Montenegro, Esteban`, {sc}`Jennifer Frisk`, {sc}`José Díaz-Garayúa`, & **{sc}`August Frisk`**. *Open Research Community Accelerator (ORCA) Catalytic Award*. May 2025–May 2026. $15,000.
-
-Vounteer engagement in mapping urban trees. **PI**. **{sc}`Frisk, August`** & {sc}`José Díaz-Garayúa`. *Student Engagement in Research, Scholarship, and Creative Activity (SERSCA) Mini Grant*. Nov 2025–May 2026 $300.
-
-:::
-:::{dropdown} 2024
-:open:
-
-Morphology of cynipid wasps and their galls. **PI**. **{sc}`Frisk, August`** & {sc}`Chad Redwing`. *Student Engagement in Research, Scholarship, and Creative Activity (SERSCA) Mini Grant*. Nov 2024–May 2025 $500.
-
-:::
+1. Valley oak gall pathology open database. {abbr}`Montenegro-Montenegro, Esteban (primary investigator)`, {abbr}`Jennifer Frisk (grant coordinator)`, {abbr}`José Díaz-Garayúa (geospatial consultant)`, & **{abbr}`August Frisk (field coordinator)`**. *{abbr}`ORCA (Open Research Community Accelerator)` Catalytic Award*. May 2025–May 2026. $15,000.
+1. Travel support to present at {abbr}`AGU (American Geophysical Union)` 2025. **{abbr}`Frisk, August (primary investigator)`** & {abbr}`José Díaz-Garayúa (faculty advisor)`. *{abbr}`SERSCA (Student Engagement in Research, Scholarship, and Creative Activity)` Travel Grant*. Oct 2024. $1,200.
+1. Vounteer engagement in mapping urban trees. **{abbr}`Frisk, August (primary investigator)`** & {abbr}`José Díaz-Garayúa (faculty advisor)`. *{abbr}`SERSCA (Student Engagement in Research, Scholarship, and Creative Activity)` Mini Grant*. Nov 2025–May 2026 $300.
+1. Morphology of cynipid wasps and their galls. **{abbr}`Frisk, August (primary investigator)`** & {abbr}`Chad Redwing (faculty advisor)`. *{abbr}`SERSCA (Student Engagement in Research, Scholarship, and Creative Activity)` Mini Grant*. Nov 2024–May 2025 $500.
+1. Travel support to present at {abbr}`APCG (Association of Pacific Coast Geographers)` 2024. **{abbr}`Frisk, August (primary investigator)`** & {abbr}`Peggy Hauselt (faculty advisor)`. *{abbr}`SERSCA (Student Engagement in Research, Scholarship, and Creative Activity)` Travel Grant*. Oct 2024. $1,200.
 
 ## Wikipedia Contributions
-⥉ designates [writing – original draft](https://credit.niso.org/contributor-roles/writing-original-draft/). For a full list of Wikimedia contributions, see [contributions for ParasiticFrisk](https://meta.wikimedia.org/wiki/User:Parasiticfrisk#Contributions).
-
-:::{dropdown} 2024
-:open:
-
-**{sc}`Frisk, August`**⥉. (2024). Allocosa subparva. In *Wikipedia*. https://en.wikipedia.org/wiki/Allocosa_subparva.
-
-**{sc}`Frisk, August`**⥉. (2024). Schizocosa mccooki. In *Wikipedia*. https://en.wikipedia.org/wiki/Schizocosa_mccooki.
-
-**{sc}`Frisk, August`**⥉. (2024). Pardosa astrigera. In *Wikipedia*. https://en.wikipedia.org/wiki/Pardosa_astrigera.
-
+1. **{abbr}`Frisk, August (writing – original draft)`**. (2024). Allocosa subparva. In *Wikipedia*. https://en.wikipedia.org/wiki/Allocosa_subparva.
+1. **{abbr}`Frisk, August (writing – original draft)`**. (2024). Schizocosa mccooki. In *Wikipedia*. https://en.wikipedia.org/wiki/Schizocosa_mccooki.
+1. **{abbr}`Frisk, August (writing – original draft)`**. (2024). Pardosa astrigera. In *Wikipedia*. https://en.wikipedia.org/wiki/Pardosa_astrigera.
+:::{seealso}
+:class: dropdown
+See [contributions for ParasiticFrisk] for a full list of Wikimedia contributions.
 :::
 
 ## Honors & Awards
+* **Certificate of Special Recognition**. U.S. Rep. Adam Gray. *2025*.
+* **Community Ambassador Award**. College Corps. *2025*.
+* **First Place, Digital Cartography Award**. California Geographical Society. *2025*.
+* **Segal Educational Award**. AmeriCorps. *2025*.
+* **Second Place, Undergradute Poster**. CA/NV Soil and Water Conservation Society. *2025*.
+* **Drucilla Shepard Smith Award**. Oregon State University. *2023*.
+* **Science, Math, & Engineering Excellence Award**. Modesto Junior College. *2021*.
+* **Student of the Year Nominee**. Modesto Junior College. *2018*.
 
-:::{dropdown} 2025
-:open:
+% links
 
-**Certificate of Special Recognition**, U.S. Rep. Adam Gray
-
-**Community Ambassador Award**, College Corps
-
-**First Place, Digital Cartography Award**, California Geographical Society
-
-**Segal Educational Award**, AmeriCorps
-
-:::
-:::{dropdown} 2024
-:open:
-
-**Second Place, Undergradute Poster**, CA/NV Soil and Water Conservation Society
-
-:::
-:::{dropdown} 2023
-:open:
-
-**Drucilla Shepard Smith Award**, Oregon State University
-
-:::
-:::{dropdown} 2021
-:open:
-
-**Science, Math, & Engineering Excellence Award**, Modesto Junior College
-
-:::
+[contributions for ParasiticFrisk]:https://meta.wikimedia.org/wiki/User:Parasiticfrisk#Contributions

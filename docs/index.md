@@ -14,14 +14,14 @@ Presentation on the insect ecology of *[Larrea tridentata]* in [Death Valley]. C
 ```
 ::::
 ::::{card}
-**Research Assistant**<br>
+**Research Assistant** \
 [Human-Environment eXploration Lab]
 
-[Department of Geography & Environmental Resources]<br>
+[Department of Geography & Environmental Resources] \
 California State University, Stanislaus
 
-[Bizzini Hall]<br>
-1 University Circle<br>
+[Bizzini Hall] \
+1 University Circle \
 Turlock, CA 95382
 
 ::::
