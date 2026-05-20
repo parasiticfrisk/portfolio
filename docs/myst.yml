@@ -1,11 +1,11 @@
 version: 1
 project:
   title: August Frisk
+  github: parasiticfrisk/portfolio
   authors:
     #  - name: August Frisk
     #    orcid: 0009-0007-9200-8438
     #    linkedin: https://www.linkedin.com/in/august-frisk/
-  copyright: '2026'
   license:
     - content: CC-BY-SA-4.0
   exclude:
@@ -15,7 +15,6 @@ project:
     - rss.xml
     - atom.xml
     - README.md
-  github: parasiticfrisk/portfolio
   thebe:
     binder:
       repo: parasiticfrisk/portfolio
@@ -24,6 +23,7 @@ project:
       ref: main
   bibliography:
     - docs/pages/references.bib
+
   toc:
     - file: docs/index.md
     - file: docs/pages/about.md
@@ -36,7 +36,12 @@ project:
     #     - file: docs/posts/
     # - pattern: posts/*.md
     #   hidden: true
+
+extends:
+  - abbreviations.yml
+
 site:
+  title: August Frisk Portfolio
   options:
     logo: docs/assets/images/logo.png
     logo_dark: docs/assets/images/logo.png
