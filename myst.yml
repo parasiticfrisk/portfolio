@@ -42,12 +42,12 @@ extends: docs/abbreviations.yml
 site:
   title: August Frisk Portfolio
   options:
-    logo: assets/images/logo.png
-    logo_dark: assets/images/logo.png
-    favicon: assets/images/fav.ico
+    logo: docs/assets/images/logo.png
+    logo_dark: docs/assets/images/logo.png
+    favicon: docs/assets/images/fav.ico
     folders: false
     hide_title_block: false
-    style: assets/css/main.css
+    style: docs/assets/css/main.css
   robots: disallow
   actions:
     - title: RSS

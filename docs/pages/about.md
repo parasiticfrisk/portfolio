@@ -21,7 +21,6 @@ Beyond professional work, I actively participate in community science, [environm
 * [Fundamentals of Remote Sensing]. NASA. *2025*.
 * [Open Science 101]. NASA. *2024*.
 * [Unity Junior Programmer]. Unity Technologies. *2021*.
-* Computer Network Technician. Modesto Junior College. *2018*.
 
 % links
 

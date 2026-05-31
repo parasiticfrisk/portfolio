@@ -1,15 +1,5 @@
 ---
 title: Research
-abbreviations:
-  SERSCA: Student Engagement in Research, Scholarship, and Creative Activity
-  ORCA: Open Research Community Accelerator
-  SWCS: Soil and Water Conservation Society
-  AGU: American Geophysical Union
-  CGS: California Geographical Society
-  HEX: Human-Environment eXploration
-  CA: California
-  LA: Louisiana
-  NV: Nevada
 ---
 
 ## Professional Presentations
@@ -18,7 +8,7 @@ abbreviations:
 1. **Frisk, August**. (2025). Invasive weed mapping: a framework for precision weed management \[ArcGIS StoryMap\]. *River Partners San Joaquin Fellows Symposium*, Modesto, CA. Jul 30. https://doi.org/10.5281/zenodo.20265102.
 1. **Frisk, August**. (2025). Connecting communities to their urban forests \[ArcGIS Dashboard\]. *CGS 2025 Annual Meeting*, Turlock, CA. Apr 26. https://www.arcgis.com/apps/dashboards/8a6c54c044e24bbd82b55123b5bb4963.
 1. **Frisk, August**, Mitzi Osorio, Yaniri Piza, Joshua Samayoa, Tiffani Sandoval-Rodríguez, Ari Carlos, Patrick Ejinaka, Moriah Do, Andrea Schoepf, Amelia Velazquez-Valencia, Laura Plascencia, {abbr}`José Díaz-Garayúa (Primary Investigator)`, and {abbr}`Andrew Gardner (Co-Primary Investigator)`. (2025). HEX Lab land classification project overview: benfits of trees \[Lightning Talk\]. *Sustainability Showcase*, Turlock, CA. Mar 24. https://doi.org/10.5281/zenodo.20317442.
-1. **Frisk, August**. (2024). Climate-action and the intersection of sustainability and agricutlure in the Central Valley: a showcase of CGS  field trips \[Poster\]. *Social Justice in the Central Valley*, Turlock, CA, Oct 23–25; *CA/NV SWCS 2025 Annual Meeting*, Chico, CA, Oct 9–10; *APCG 2024 Annual Meeting`*, Arcata, CA, Oct 3–5. https://doi.org/10.6084/m9.figshare.27261315.
+1. **Frisk, August**. (2024). Climate-action and the intersection of sustainability and agricutlure in the Central Valley: a showcase of CGS  field trips \[Poster\]. *Social Justice in the Central Valley*, Turlock, CA, Oct 23–25; *CA/NV SWCS 2025 Annual Meeting*, Chico, CA, Oct 9–10; *APCG 2024 Annual Meeting*, Arcata, CA, Oct 3–5. https://doi.org/10.6084/m9.figshare.27261315.
 
 ## Datasets
 1. **{abbr}`Frisk, August (data curator)`** & iNaturalist Contributors. (2025). CA state roadkill observation data (2018–2025). *figshare*. https://doi.org/10.6084/m9.figshare.29123012.
@@ -27,8 +17,8 @@ abbreviations:
 ## Grants
 1. Valley oak gall pathology open database. {abbr}`Montenegro-Montenegro, Esteban (Primary Investigator)`, {abbr}`Jennifer Frisk (Grant Coordinator)`, {abbr}`José Díaz-Garayúa (Geospatial Consultant)`, & **{abbr}`August Frisk (Field Coordinator)`**. *ORCA Catalytic Award*. May 2025–May 2026. $15,000.
 1. Travel support to present at AGU 2025. **Frisk, August** & {abbr}`José Díaz-Garayúa (Faculty Advisor)`. *SERSCA Travel Grant*. Dec 2025. $1,200.
-1. Vounteer engagement in mapping urban trees. **Frisk, August** & {abbr}`José Díaz-Garayúa (Faculty Advisor)`. *SERSCA Mini Grant*. Nov 2025–May 2026 $300.
-1. Morphology of cynipid wasps and their galls. **Frisk, August** & {abbr}`Chad Redwing (Faculty Advisor)`. *SERSCA Mini Grant*. Nov 2024–May 2025 $500.
+1. Vounteer engagement in mapping urban trees. **Frisk, August** & {abbr}`José Díaz-Garayúa (Faculty Advisor)`. *SERSCA Mini Grant*. Nov 2025–May 2026. $300.
+1. Morphology of cynipid wasps and their galls. **Frisk, August** & {abbr}`Chad Redwing (Faculty Advisor)`. *SERSCA Mini Grant*. Nov 2024–May 2025. $500.
 1. Travel support to present at APCG 2024. **Frisk, August** & {abbr}`Peggy Hauselt (Faculty Advisor)`. *SERSCA Travel Grant*. Oct 2024. $1,200.
 
 ## Wikipedia Contributions
