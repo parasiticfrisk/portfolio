@@ -1,6 +1,5 @@
 ---
 title: About
-hide_outline: true
 ---
 
 I am a [GIS] and [restoration ecology] professional focused on ecological monitoring, [remote sensing], [biodiversity informatics], and [community science]. My work combines geospatial technologies, [field ecology], and environmental data [workflows] to support restoration, [conservation], and public engagement initiatives across [California].

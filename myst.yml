@@ -48,7 +48,7 @@ site:
     folders: false
     hide_title_block: false
     style: docs/assets/css/main.css
-  robots: disallow
+    robots: disallow
   actions:
     - title: RSS
       url: https://parasiticfrisk.github.io/portfolio/rss.xml
