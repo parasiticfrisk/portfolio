@@ -2,12 +2,7 @@ version: 1
 project:
   title: August Frisk
   github: parasiticfrisk/portfolio
-  authors:
-    #  - name: August Frisk
-    #    orcid: 0009-0007-9200-8438
-    #    linkedin: https://www.linkedin.com/in/august-frisk/
-  license:
-    - content: CC-BY-SA-4.0
+  license: CC-BY-SA-4.0
   exclude:
     - _build
     - Thumbs.db
@@ -30,14 +25,22 @@ project:
     - file: docs/pages/experience.md
     - file: docs/pages/research.md
     - file: docs/pages/service.md
-    #   - file: projects/
-    # - file: pages/blog.md
-    #   children:
-    #     - file: posts/
-    # - pattern: posts/*.md
-    #   hidden: true
 
-extends: docs/abbreviations.yml
+    - file: docs/pages/projects.md
+      children:
+      - pattern: docs/projects/*.md
+        sort: descending
+        hidden: true
+
+    - file: docs/pages/posts.md
+      children:
+      - pattern: docs/posts/*.md
+        sort: descending
+        hidden: true
+
+extends:
+  - docs/abbreviations.yml
+  - docs/affiliations.yml
 
 site:
   title: August Frisk Portfolio
