@@ -6,7 +6,7 @@ Environmental GIS and restoration ecology professional specializing in remote se
 
 :::::{grid} 1 1 2 2
 ::::{card}
-```{figure} https://raw.githubusercontent.com/parasiticfrisk/portfolio/refs/heads/main/docs/assests/images/august_frisk.jpg
+```{figure} https://raw.githubusercontent.com/parasiticfrisk/portfolio/refs/heads/main/docs/assets/images/august_frisk.jpg
 :label: profile_pic
 :alt: August Frisk presenting on the insect ecology of Larrea tridentata.
 
