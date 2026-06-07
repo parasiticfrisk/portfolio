@@ -39,14 +39,18 @@ table th:first-child {
 }
 
 #posts ~ .myst-grid .myst-card-header,
-#posts ~ * .myst-grid .myst-card-header {
+#posts ~ * .myst-grid .myst-card-header,
+#projects ~ .myst-grid .myst-card-header,
+#projects ~ * .myst-grid .myst-card-header {
   padding: 0.5rem !important;
   border-bottom: none !important;
   background: transparent !important;
 }
 
 #posts ~ .myst-grid .myst-card-header img,
-#posts ~ * .myst-grid .myst-card-header img {
+#posts ~ * .myst-grid .myst-card-header img,
+#projects ~ .myst-grid .myst-card-header img,
+#projects ~ * .myst-grid .myst-card-header img {
   display: block;
   width: 100%;
   margin: 0 !important;
