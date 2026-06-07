@@ -1,0 +1,20 @@
+version: 1
+project:
+
+  affiliations:
+    - id: HEX
+      institution: California State University, Stanislaus
+      department: Geography and Environmental Resources
+      url: https://www.csustan.edu/hex-lab
+
+    - id: OSU
+      institution: Oregon State University
+      ror: 00ysfqy60
+
+    - id: CSUStan
+      institution: California State University, Stanislaus
+      ror: 00ejm2g54
+
+    - id: MJC
+      institution: Modesto Junior College
+      ror: 03vemr371
