@@ -12,17 +12,27 @@ project:
     ArcGIS: null
     QGIS: null
 
+    SQL: Structured Query Language
+    SQLite: null
+
     UCM: University of California Merced
     UC: University of California
 
     GNSS: Global Navigation Satellite System
+    HTML: Hypertext Markup Language
+    IDLE: Integrated Development and Learning Environment
     NASA: National Aeronautics and Space Administration
     STEM: Science, Technology, Engineering, & Mathematics
     SWCS: Soil and Water Conservation Society
     AGU: American Geophysical Union
     CGS: California Geographical Society
+    GUI: Graphical User Interface
     GPS: Global Positioning System
     HEX: Human-Environment eXploration
+    IDE: Integrated Development Environment
+    MJC: Modesto Junior College
+    USB: Universal Serial Bus
+    IT: Information Technology
     LA: Louisiana
     NV: Nevada
     QA: Quality Assurance
