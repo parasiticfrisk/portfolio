@@ -2,13 +2,13 @@
 title: About
 ---
 
-I am a [GIS] and [restoration ecology] professional specializing in ecological monitoring, [remote sensing], [biodiversity informatics], and [community science]. My work integrates geospatial technologies, field ecology, and environmental data to support restoration, conservation, and public engagement initiatives across California.
+I am a [GIS] and restoration ecology professional specializing in ecological monitoring, [remote sensing], [biodiversity informatics], and [community science]. My work integrates geospatial technologies, field ecology, and environmental data to support restoration, conservation, and public engagement initiatives across California.
 
-My experience includes [geospatial analysis], GIS workflow development, [drone imagery] processing, remote sensing, ecological restoration, biodiversity monitoring, urban forestry inventories, participatory science, environmental data management, and field-based ecological surveys.
+My experience includes [geospatial analysis], GIS workflow development, [drone imagery] processing, remote sensing, [ecological restoration], biodiversity monitoring, urban forestry inventories, participatory science, environmental data management, and field-based ecological surveys.
 
 I have contributed to projects across riparian forests, wetlands, floodplains, grasslands, and urban ecosystems using [ArcGIS Pro], ArcGIS Online, ArcGIS Field Maps, [GNSS] equipment, remote sensing techniques, and [Python]-based GIS automation.
 
-My professional interests include restoration ecology, environmental GIS, conservation technology, [open-source] geospatial tools, and community-centered approaches to environmental research and stewardship.
+My professional interests include restoration ecology, environmental GIS, conservation technology, open source geospatial tools, and community-centered approaches to environmental research and stewardship.
 
 Beyond professional work, I actively participate in community science, environmental education, scientific outreach, and open knowledge initiatives. I contribute to biodiversity observations and species identifications through [iNaturalist], support collaborative research on [cynipid wasps] and arthropods, and help develop accessible tools and resources that help expand public participation in ecological research.
 
@@ -32,19 +32,14 @@ Unity Technologies | [Verify](https://www.credly.com/badges/ff513f13-1edb-4a6a-b
 % links
 
 [GIS]:https://en.wikipedia.org/wiki/Geographic_information_system
-[restoration ecology]:https://en.wikipedia.org/wiki/Ecological_restoration
 [remote sensing]:https://en.wikipedia.org/wiki/Remote_sensing
 [biodiversity informatics]:https://en.wikipedia.org/wiki/Biodiversity_informatics
 [community science]:https://en.wikipedia.org/wiki/Citizen_science
-
 [geospatial analysis]:https://en.wikipedia.org/wiki/Spatial_analysis
 [drone imagery]:https://en.wikipedia.org/wiki/Aerial_photography
-
+[ecological restoration]:https://en.wikipedia.org/wiki/Ecological_restoration
 [ArcGIS Pro]:https://en.wikipedia.org/wiki/ArcGIS_Pro
 [GNSS]:https://en.wikipedia.org/wiki/Satellite_navigation_device
 [Python]:https://en.wikipedia.org/wiki/Python_(programming_language)
-
-[open-source]:https://en.wikipedia.org/wiki/Open_source
-
 [iNaturalist]:https://en.wikipedia.org/wiki/INaturalist
 [cynipid wasps]:https://en.wikipedia.org/wiki/Gall_wasp
