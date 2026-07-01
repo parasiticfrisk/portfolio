@@ -2,85 +2,122 @@
 title: Service
 ---
 
-My service work focuses on ecological restoration, biodiversity documentation, community science, environmental education, and professional engagement. I contribute to collaborative research, volunteer education, scientific outreach, and ogranizations that support restoration ecology, geography, geospatial science, and biodiversity monitoring.
+My service activities focus on ecological restoration, biodiversity documentation, community science, environmental education, and professional engagement. I contribute to collaborative research, volunteer education, scientific outreach, and organizations that advance restoration ecology, geography, geospatial science, and biodiversity conservation.
 
 ## Volunteering
 ### University of Iowa
-:::{dropdown} Citizen Scientist (Forbes Lab)
+:::{dropdown} Citizen Scientist
 :open:
-*Aug 2023–Present* \
-Support collaborative ecological research focused on cynipid wasps through specimen collection, rearing, identification, and biodiversity documentation. Activities include field sampling coordination, volunteer training, specimen documentation, and biodiversity data contributions through iNaturalist.
+[Forbes Lab] \
+**August 2023–Present**
+
+Support collaborative ecological research on cynipid wasps through specimen collection, rearing, identification, and biodiversity documentation. Activities include field sampling, volunteer training, specimen curation, and biodiversity data contributions through iNaturalist.
+
+**Projects:** [Cynipini Larva Sequencing Pilot Study] \
+**Workshop Materials:** [Oak gall wasp citizen science traning series]
 :::
 
 ### iNaturalist
 :::{dropdown} Citizen Scientist 
 :open:
-*Jun 2022–Present* \
-Contribute biodiversity observations, species identifications, and taxonomy-focused documentation through iNaturalist, specializing in Northern San Joaquin Valley invertebrates and California spiders. Support community science engagement through educational outreach, observation annotation, and public knowledge contributions.
+**June 2022–Present**
+
+Contribute biodiversity observations, species identifications, and taxonomy documentation through iNaturalist, with a focus on Northern San Joaquin Valley invertebrates and California spiders. Promote community science through observation annotation, educational outreach, and public biodiversity documentation.
+
+**Profiles:** [iNaturalist] | [Wikimedia] \
+**Projects:** [Stanislaus State Biodiversity] | [Stanislaus County Biodiversity] | [Spiders of California]
 :::
 
 ### California State Parks
-:::{dropdown} Docent (Dos Rios State Park)
+:::{dropdown} Docent
 :open:
-*Oct 2024–Oct 2025* \
-Supported environmental education and community engagement programs at Dos Rios State Park through guided hikes, restoration volunteer events, and public outreach activities on riparian ecology, floodplain restoration, and native ecosystems.
+[Dos Rios State Park] \
+**October 2024–October 2025**
+
+Supported environmental education and community engagement through guided hikes, restoration volunteer events, and public outreach focused on riparian ecology, floodplain restoration, and native ecosystems.
+
+**Media:** [California’s Newest State Park Is Even More Magical in the Fog] | [State Parks Weekly Digest (2024 Dec 06)]
 :::
 
 ### Computing Alliance of Hispanic Serving Institutions
-:::{dropdown} Web Developer (Stanislaus State)
+:::{dropdown} Web Developer
 :open:
-*Mar 2021–Dec 2021* \
-Supported web development and digital outreach initiatives for student-focused STEM and computing programs at Stanislaus State.
+[Stanislaus State] \
+**March 2021–December 2021**
+
+Supported web development and digital outreach for student-focused STEM and computing initiatives at Stanislaus State.
+
+**Projects:** [Stanislaus State CAHSI website (2021)] \
+**Code:** [CAHSI website repository]
 :::
 
 ## Professional & Institutional Service
 ### California Geographical Society
 :::{dropdown} Northern California Student Representative
 :open:
-*Aug 2024–May 2026* \
-Supported organizational outreach, annual meeting logistics, website management, and field trip coordination for the 2025 Annul Meeting.
+**August 2024–May 2026**
+
+Supported organizational outreach, website management, annual meeting logistics, and field trip coordination for the 2025 Annual Meeting.
+
+**Projects:** [Conference website (2025)] \
+**Presentations:** [Showcase of CGS field trips]
 :::
 :::{dropdown} Field Trip Leader
 :open:
-*Apr 2025* \
-Led CGS 2025 field tours at Dos Rios State Park focused on riparian ecology, floodplain restoration, and river conservation.
+**April 2025**
+
+Led field excursions at the 2025 California Geographical Society Annual Meeting, highlighting riparian ecology, floodplain restoration, and river conservation at Dos Rios State Park.
 :::
 
 ### California State University, Stanislaus
-:::{dropdown} Student Representative (University Honors Program; UCM Field to Lab-Curious Program)
+:::{dropdown} Student Representative
 :open:
-*Sep 2024–Jun 2025* \
-Contributed to planning and implementation of the inaugural cross-campus collaboration between Stanislaus State, Modesto Junior College, and UC Merced on microplastics research and supporting field-lab workflows.
+[University Honors Program] | [UC Merced Field to Lab-Curious Program] | [UC Merced Core Facilities] \
+**September 2024–June 2025**
+
+Contributed to planning and implementation of the inaugural cross-campus collaboration among Stanislaus State, Modesto Junior College, and UC Merced, supporting microplastics research and field-to-laboratory workflows.
+
+**Media:** [UC Merced Vernal Pools and Grassland Reserve Instagram post]
 :::
-:::{dropdown} Science Day Volunteer (Department of Geography & Environmental Resources)
+:::{dropdown} Science Day Volunteer
 :open:
-*2025–2026* \
-Served in hands-on activities and community education on pollinator ecology.
+[Department of Geography & Environmental Resources] \
+**2025–2026**
+
+Supported hands-on eductaional activities focused on pollinator ecology.
 :::
-:::{dropdown} Ad Hoc Field Trip Coordinator (Department of Geography & Environmental Resources)
+:::{dropdown} Ad Hoc Field Trip Coordinator
 :open:
-*Oct 2024–Dec 2025* \
-Designated backup field-trip coordinator as needed.
+[Department of Geography & Environmental Resources] \
+**October 2024–December 2025**
+
+Served as a backup field trip coordinator for department field courses and events as needed.
 :::
 :::{dropdown} Campus Landscape Committee
 :open:
-*Feb 2025–May 2026* \
-Contributed to planning and future design of Stanislaus State campus landscape to advance sustainability, education, and community engagement.
+**February 2025–May 2026**
+
+Contributed to planning and long-term landscape initiatives that promote sustainability, environmental education, and community engagement across campus.
 :::
 :::{dropdown} BioAg Committee
 :open:
-*Sep 2024–May 2026* \
+**September 2024–May 2026**
+
 Contributed to planning and management decisions for the Stanislaus State BioAg Field Site.
 :::
 
 ### California Native Plant Society
-:::{dropdown} Field Trip Leader (Northern San Joaquin Valley Chapter)
+:::{dropdown} Field Trip Leader
 :open:
-*Aug 2024* \
-Led field trips instructing participants on invertebrate ecology and identification, native plant interactions, and ecological impacts of biocides.
+[Northern San Joaquin Valley Chapter] \
+**August 2024**
+
+Led educational field trips on invertebrate ecology, species identification, native plant interactions, and the ecological impacts of biocides.
+
+**Media:** [CNPS NSJV Instagram post]
 :::
 
-## Professional Organizations
+<!-- ## Professional Memberships
 **Ecology, Restoration, & Environmental Science**
 * Society for Ecological Restoration
 * Ecological Society of America
@@ -95,5 +132,36 @@ Led field trips instructing participants on invertebrate ecology and identificat
 
 **Community Science & Open Science**
 * U.S. Research Software Engineering Association
-* Network of Researchers for Citizen Science
-* World Spider Catalog
+* Network of Researchers for Citizen Science -->
+
+% links
+[Forbes Lab]:https://forbes.lab.uiowa.edu/
+[Cynipini Larva Sequencing Pilot Study]:https://www.inaturalist.org/projects/cynipini-larva-sequencing-pilot-study
+[Oak gall wasp citizen science traning series]:https://doi.org/10.5281/zenodo.20303692
+
+[iNaturalist]:https://www.inaturalist.org/people/augustfrisk
+[Wikimedia]:https://meta.wikimedia.org/wiki/User:Parasiticfrisk
+[Stanislaus State Biodiversity]:https://www.inaturalist.org/projects/california-state-university-stanislaus
+[Stanislaus County Biodiversity]:https://www.inaturalist.org/projects/stanislaus-county-california
+[Spiders of California]:https://www.inaturalist.org/projects/spiders-of-california-us
+
+[Dos Rios State Park]:https://www.parks.ca.gov/?page_id=31363
+[California’s Newest State Park Is Even More Magical in the Fog]:https://castateparks.wordpress.com/2024/12/12/californias-newest-state-park-is-even-more-magical-in-the-fog/
+[State Parks weekly digest (2024 Dec 06)]:https://content.govdelivery.com/accounts/CNRA/bulletins/3c3d9ed#:~:text=Docent%20August%20Frisk
+
+[Stanislaus State]:https://www.csustan.edu/
+[Stanislaus State CAHSI website (2021)]:https://parasiticfrisk.github.io/stan_state_cahsi/
+[CAHSI website repository]:https://github.com/parasiticfrisk/stan_state_cahsi
+
+[Conference website (2025)]:https://sites.google.com/view/cgs-2025
+[Showcase of CGS field trips]:https://doi.org/10.6084/m9.figshare.27261315
+
+[University Honors Program]:https://www.csustan.edu/honors
+[UC Merced Field to Lab-Curious Program]:https://merced.ucnature.org/opportunities-programs/field-curious/
+[UC Merced Core Facilities]:https://research.ucmerced.edu/core-facilities
+[UC Merced Vernal Pools and Grassland Reserve Instagram post]:https://www.instagram.com/reels/DNqpnmuh8xk/
+
+[Department of Geography & Environmental Resources]:https://www.csustan.edu/geography-environmental-resources
+
+[Northern San Joaquin Valley Chapter]:https://chapters.cnps.org/nsj/
+[CNPS NSJV Instagram post]:https://www.instagram.com/p/C_CCJHTiXAD/

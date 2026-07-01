@@ -2,36 +2,77 @@
 title: Experience
 ---
 
-My experience focuses on restoration ecology, GIS, remote sensing, ecological monitoring, and community science. I have contributed to projects involving biodiversity monitoring, drone imagery, participatory science workflows, ecological restoration, and environmental data management across California using field ecology and geospatial technologies to support conservation and environmental research.
+My experience spans restoration ecology, GIS, remote sensing, ecological monitoring, and community science. I have contributed to projects involving biodiversity monitoring, drone imagery, ecological restoration, environmental data management, and participatory science across California, integrating field ecology with geospatial technologies to support conservation and applied environmental research.
 
 ## Employment
 ### California State University, Stanislaus
-:::{dropdown} Research Assistant (HEX Lab)
+:::{dropdown} Student GIS Specialist
 :open:
-*Jan 2025–Present* \
-Developing participatory science workflows for urban forestry and environmental monitoring projects using GIS and community science approaches. Current work focuses on field-tested data collection frameworks, ArcGIS Field Maps,  ArcGIS dashboards, and improving accessibility and usability in community-based environmental data collection.
+[Department of Geography & Environmental Resources] \
+**June 2026–Present**
+
+Support the development of a digital historical atlas of Islamic civilization by digitizing and processing Arabic historical maps, applying AI-assisted natural language processing (NLP) tools for map translation, verifying translated geographical information, and creating GIS-ready spatial datasets. Contribute to geospatial data development for interactive historical mapping and digital humanities research.
+:::
+:::{dropdown} Research Assistant
+:open:
+[Human-Environment eXploration Lab] \
+**January 2025–Present**
+
+Develop participatory science frameworks for urban forestry and environmental monitoring projects using GIS and community science approaches. Current work focuses on field-tested data collection protocols, ArcGIS Field Maps, ArcGIS Dashboards, and improving the accessibility and usability of community-based environmental data collection.
+
+**Projects:** [Prototype dashboard] \
+**Workshop Materials:** [Oak gall wasp citizen science traning series] \
+**Presentations:** [Building an Open-Source Urban Forestry Model] | [Stanislaus State's Cover Assessment & Tree Benefits]
 :::
 :::{dropdown} GIS Student Assistant
 :open:
-*Oct 2024–Aug 2025* \
-Supported university GIS initiatives involving geodatabase managment, campus mapping, spatial inventories, and GIS workflow automation. Worked with ArcGIS Pro, ArcGIS Online, GNSS equipment, Python scripting, and geospatial application development to improve spatial data management and support campus infrastructure mapping projects.
+[Capital Planning & Facilities Management] \
+**October 2024–August 2025**
+
+Supported university GIS initiatives involving geodatabase management, campus mapping, spatial inventories, and GIS automation. Worked with ArcGIS Pro, ArcGIS Online, GNSS equipment, Python scripting, and geospatial application development to improve spatial data management and support campus infrastructure mapping.
+
+**Datasets:** [Stanislaus State Campus Trees] | [Stanislaus State Campus Buildings]
 :::
 
 ### River Partners
 :::{dropdown} Associate Restoration Science Fellow
 :open:
-*Aug 2025–Mar 2026* \
-Supported ecological restoration monitoring, biodiversity monitoring, and geospatial analysis projects across the Northern San Joaquin Valley. Worked extensively with GIS, drone imagery, remote sensing, ArcGIS Field Maps, and ecological field surveys to support riparian restoration, invasive species management, and habitat monitoring efforts. Responsibilities included special-status species surveys, ecological monitoring, drone data processing, geospatial QA/QC, and biomonitoring equipment deployment across diverse restoration habitats.
+**August 2025–March 2026**
+
+Supported ecological restoration monitoring, biodiversity surveys, and geospatial analysis across the Northern San Joaquin Valley. Applied GIS, drone imagery, remote sensing, ArcGIS Field Maps, and ecological field methods to support riparian restoration, invasive species management, and habitat monitoring. Responsibilities included special-status species surveys, drone data processing, geospatial QA/QC, biomonitoring equipment deployment, and field data collection across diverse restoration landscapes.
 :::
 :::{dropdown} Ecological Restoration Fellow
 :open:
-*Jun 2025–Aug 2025* \
-Conducted independent research on multispectral drone workflows for invasive vegetation mapping in restoration landscapes. Supported vegetation and pollinator habitat monitoring projects while assisting with ecological field surveys, GIS workflows, and restoration science initiatives. Also assisted interns in vegetation identification, GIS workflows, and ecological field projects.
+**June 2025–August 2025**
+
+Conducted independent research on multispectral drone workflows for invasive vegetation mapping in restoration landscapes. Contributed to vegetation and pollinator habitat monitoring while supporting ecological field surveys, GIS analyses, and restoration science initiatives. Also mentored interns in vegetation identification, GIS applications, and ecological field methods.
+
+**Presentations:** [Invasive weed mapping]
 :::
 
 ### College Corps at Stanislaus State
 :::{dropdown} Climate Action Fellow
 :open:
-*Aug 2024–May 2026* \
-Participated in ecological restoration, environmental outreach, urban forestry monitoring, and community science initiatives across California through two consecutive College Corps terms. Responsibilities evolved form supporting restoration and stewardship projects to leading volunteer training, citizen science workshops, biodiversity monitoring initiatives, and environmental education activities focused on restoration ecology and conservation.
+**August 2024–May 2026**
+
+Participated in ecological restoration, environmental outreach, urban forestry monitoring, and community science initiatives through two consecutive College Corps terms. Responsibilities evolved from supporting restoration and stewardship projects to leading volunteer training, community science workshops, biodiversity monitoring initiatives, and environmental education programs focused on restoration ecology and conservation.
+
+**Presentations:** [Showcase of CGS field trips]
 :::
+
+% links
+[Department of Geography & Environmental Resources]:https://www.csustan.edu/geography-environmental-resources
+
+[Human-Environment eXploration Lab]:https://www.csustan.edu/hex-lab
+[Prototype dashboard]:https://www.arcgis.com/apps/dashboards/8a6c54c044e24bbd82b55123b5bb4963
+[Building an Open-Source Urban Forestry Model]:https://doi.org/10.22541/essoar.176892235.51073089/v1
+[Stanislaus State's Cover Assessment & Tree Benefits]:https://doi.org/10.5281/zenodo.20317442
+[Oak gall wasp citizen science traning series]:https://doi.org/10.5281/zenodo.20303692
+
+[Capital Planning & Facilities Management]:https://www.csustan.edu/cpfm
+[Stanislaus State Campus Trees]:https://csustanislaus.maps.arcgis.com/home/item.html?id=54ceb15a7cf74136af54f000c44a2856
+[Stanislaus State Campus Buildings]:https://csustanislaus.maps.arcgis.com/home/item.html?id=f0874e7b5a4242169230b1cf73c656f0
+
+[Invasive weed mapping]:https://doi.org/10.5281/zenodo.20265102
+
+[Showcase of CGS field trips]:https://doi.org/10.6084/m9.figshare.27261315
