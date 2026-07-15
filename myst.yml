@@ -42,16 +42,14 @@ extends: docs/abbreviations.yml
 site:
   title: August Frisk Portfolio
   options:
+    hide_outline: true
+    favicon: docs/assets/images/fav.ico
     logo: docs/assets/images/logo.png
     logo_dark: docs/assets/images/logo.png
-    favicon: docs/assets/images/fav.ico
+    numbered_references: true
     folders: false
-    hide_title_block: false
     style: docs/assets/css/main.css
     robots: disallow
-  actions:
-    - title: RSS
-      url: https://parasiticfrisk.github.io/portfolio/rss.xml
   template: book-theme
   parts:
     primary_sidebar_footer: ''

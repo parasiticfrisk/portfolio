@@ -12,6 +12,7 @@ My professional interests include restoration ecology, environmental GIS, conser
 
 Beyond professional work, I actively participate in community science, environmental education, scientific outreach, and open knowledge initiatives. I contribute to biodiversity observations and species identifications through [iNaturalist], support collaborative research on [cynipid wasps] and arthropods, and help develop accessible tools and resources that help expand public participation in ecological research.
 
+---
 ## Education
 **B.S. in Geography & Environmental Resources** (2026) \
 California State University, Stanislaus
